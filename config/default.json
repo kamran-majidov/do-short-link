@@ -1,6 +1,6 @@
 {
   "port": 5000,
   "jwtSecret": "kamran_kiev",
-  "mongoUri": "mongodb+srv://djkamry22:5028798@cluster0-2t6ht.azure.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoUri": "mongodb+srv://djkamry22:yB8qQw1mbxy6q4w0@cluster0-2t6ht.azure.mongodb.net/test?retryWrites=true&w=majority",
   "baseUrl": "http://localhost:5000"
 }

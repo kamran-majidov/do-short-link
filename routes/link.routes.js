@@ -51,7 +51,6 @@ router.get('/:id', auth, async (req, res) => {
 })
 
 router.delete('/:id', auth, async (req, res) => {
-    console.log(111111)
     try {
         await Link.remove({_id: req.params.id})
         res.status(200).json({message: 'Link has been deleted'})
