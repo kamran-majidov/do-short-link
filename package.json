@@ -18,7 +18,7 @@
   "author": "Medjidov Kamran <djkamry@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "concurrently": "^5.2.0",
     "config": "^3.3.1",
     "express": "^4.17.1",
